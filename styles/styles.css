@@ -1,0 +1,36 @@
+main {
+    margin: 10%;
+}
+
+.navbar {
+    background-color: #3a3c3e;
+}
+.navbar-brand.navbar-link {
+    padding-top: 10%;
+    padding-left: 2em;
+}
+ul.nav.navbar-nav li a {
+    color: white;
+}
+
+ul.nav.navbar-nav li a:hover {
+    color: aqua;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer div h5 {
+    float: left;
+}
+footer div p {
+    right: 0;
+    float: right;
+}
+
+.jumbotron {
+    padding: 5%;
+}
